@@ -1,2 +1,2 @@
 # simple_shell
-This is a paired project in shell scripting
+This is a paired project on shell scripting
